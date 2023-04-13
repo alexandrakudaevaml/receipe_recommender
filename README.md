@@ -1,8 +1,8 @@
 # Streamlit template
 
-pip install streamlit
+´´´pip install streamlit´´´
 
-streamlit run main.py
+´´´streamlit run main.py´´´
 
 
 
